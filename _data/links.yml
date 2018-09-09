@@ -1,0 +1,115 @@
+msm8974sfo:
+  filename: 3.7.2-2018021111-user-sfo.zip
+  md5sum: b16e127f93bf5f1eca2f4aa8b33baf68
+  timestamp: 1518324120
+  url: http://dl2.smartisan.cn/ota/t1/sfo/3.7.2/20180211/3.7.2-2018021111-user-sfo-b16e127f93.zip
+msm8974sfo_lte:
+  filename: 3.7.2-2018021111-user-sfo_lte.zip
+  md5sum: ce47466d523ecc17d9926142b4c797a9
+  timestamp: 1518322570
+  url: http://dl2.smartisan.cn/ota/t1/sfo_lte/3.7.2/20180211/3.7.2-2018021111-user-sfo_lte-ce47466d52.zip
+msm8916_32:
+  filename: 4.2.6-201808311713-user-511.zip
+  md5sum: d5ab14b38a3764659572e5a79e14e001
+  timestamp: 1535709867
+  url: http://dl2.smartisan.cn/ota/u1/yq601/20180903/4.2.6-201808311713-user-511-d5ab14b38a.zip
+msm8916_32_younger:
+  filename: 4.2.6-201808311824-user-511.zip
+  md5sum: 3b26fe70388a36acc0b0df90fc7a0cd9
+  timestamp: 1535714861
+  url: http://dl2.smartisan.cn/ota/u1/yq601_younger/20180903/4.2.6-201808311824-user-511-3b26fe7038.zip
+msm8916_32_603:
+  filename: 4.2.6-201808311712-user-511.zip
+  md5sum: ffb59f9a0df2137d8e3b1a09226848da
+  timestamp: 1535710037
+  url: http://dl2.smartisan.cn/ota/u1/yq603/20180903/4.2.6-201808311712-user-511-ffb59f9a0d.zip
+msm8916_32_603_younger:
+  filename: 4.2.6-201808311735-user-511.zip
+  md5sum: aa545eb3390c2f78fb98124092d0cc72
+  timestamp: 1535711161
+  url: http://dl2.smartisan.cn/ota/u1/yq603_younger/20180903/4.2.6-201808311735-user-511-aa545eb339.zip
+msm8916_32_cmcc:
+  filename: 4.2.5-201805290100-user-511.zip
+  md5sum: 276a2e7b902fa00c38891dfc0a572bcb
+  timestamp: 1527531737
+  url: http://dl2.smartisan.cn/ota/u1/yq605/20180529/4.2.5-201805290100-user-511-276a2e7b90.zip
+msm8916_32_cmcc_younger:
+  filename: 4.2.5-201805290054-user-511.zip
+  md5sum: 7575f4203d03142a35f25fca76c6cfdd
+  timestamp: 1527531091
+  url: http://dl2.smartisan.cn/ota/u1/yq605_younger/20180529/4.2.5-201805290054-user-511-7575f4203d.zip
+msm8916_32_cdma:
+  filename: 4.2.6-201808311830-user-511.zip
+  md5sum: 3c6d601dc22cd078619c0f00c221a6c2
+  timestamp: 1535715386
+  url: http://dl2.smartisan.cn/ota/u1/yq607/20180903/4.2.6-201808311830-user-511-3c6d601dc2.zip
+msm8916_32_cdma_younger:
+  filename: 4.2.6-201808311818-user-511.zip
+  md5sum: 6ca7fdd9e244b2720335d415e677c6f8
+  timestamp: 1535714010
+  url: http://dl2.smartisan.cn/ota/u1/yq607_younger/20180903/4.2.6-201808311818-user-511-6ca7fdd9e2.zip
+icesky_msm8992:
+  filename: 4.2.6-201808311703-user-is.zip
+  md5sum: 94fcccf1d8a16691dff2ef3ad7de583b
+  timestamp: 1535710500
+  url: http://dl2.smartisan.cn/ota/t2/20180831/4.2.6-201808311703-user-is-94fcccf1d8.zip
+surabaya:
+  filename: 6.0.5_alpha-201805182101-user-sur.zip
+  md5sum: 70c2c7c8477c69944361b52658b69981
+  timestamp: 1526652936
+  url: http://dl2.smartisan.cn/ota/M1/surabaya/20180519/6.0.5_alpha-201805182101-user-sur-70c2c7c847.zip
+colombo:
+  filename: 6.0.1-201809031726-user-col.zip
+  md5sum: 94b43a5f518c82093a249cd99dd36dca
+  timestamp: 1535971522
+  url: http://dl2.smartisan.cn/ota/M1/colombo/20180904/6.0.1-201809031726-user-col-94b43a5f51.zip
+odin:
+  filename: 6.0.2.2-201807231900-user-od.zip
+  md5sum: 9d14cbde3b85a42d4aee1140cb3724d0
+  timestamp: 1532350132
+  url: http://dl2.smartisan.cn/ota/ODIN/odin/20180724/6.0.2.2-201807231900-user-od-9d14cbde3b.zip
+odin_ct:
+  filename: 4.2.0-2018041502-user-od.zip
+  md5sum: 013f0c14168c15e206a35b681353516a
+  timestamp: 1523740341
+  url: http://dl2.smartisan.cn/ota/ODIN/odin_ct/4.2.0/20180416/4.2.0-2018041502-user-od-013f0c1416.zip
+odin_cmcc:
+  filename: 4.2.0-2018041502-user-od.zip
+  md5sum: e2ec50b6ee234745d9b6dc7d794a8cbe
+  timestamp: 1523741949
+  url: http://dl2.smartisan.cn/ota/ODIN/odin_cmcc/4.2.0/20180416/4.2.0-2018041502-user-od-e2ec50b6ee.zip
+osborn:
+  filename: 6.1.1-201809042142-user-ob.zip
+  md5sum: a13a5e9d19fcc10d7ad20e59fcc70046
+  timestamp: 1536077353
+  url: http://dl2.smartisan.cn/ota/OSBORN/osborn/20180905/6.1.1-201809042142-user-ob-a13a5e9d19.zip
+osborn_cmcc:
+  filename: 6.0.0-201806192226-user-ob.zip
+  md5sum: 72a8dd155004d557f00118ad18d067f0
+  timestamp: 1529427393
+  url: http://dl2.smartisan.cn/ota/OSBORN/osborn_cmcc/20180620/6.0.0-201806192226-user-ob-72a8dd1550.zip
+oscar:
+  filename: 6.1.1-201808311612-user-ocr.zip
+  md5sum: 45470517a049d402aa2dd72317c75215
+  timestamp: 1535711222
+  url: http://dl2.smartisan.cn/ota/OSCAR/oscar/20180831/6.1.1-201808311612-user-ocr-45470517a0.zip
+oscar_cmcc:
+  filename: 4.2.1.1-2018042413-user-ocr.zip
+  md5sum: 7ab8fd0ad57433144b18a74781c15dfe
+  timestamp: 1524555329
+  url: http://dl2.smartisan.cn/ota/OSCAR/oscar_cmcc/4.2.1.1/20180425/4.2.1.1-2018042413-user-ocr-7ab8fd0ad5.zip
+trident:
+  filename: 6.1.1-201808180043-user-trd.zip
+  md5sum: 1c4f423b872d4e78abb2bf56d2e3fea5
+  timestamp: 1534535464
+  url: http://dl2.smartisan.cn/ota/TRIDENT/trident/20180819/6.1.1-201808180043-user-trd-1c4f423b87.zip
+oxford:
+  filename: 6.1.1-201809041006-user-of.zip
+  md5sum: 3132c7374f21a350efe4617f4b355f30
+  timestamp: 1536032499
+  url: http://dl2.smartisan.cn/ota/OXFORD/oxford/20180904/6.1.1-201809041006-user-of-3132c7374f.zip
+ocean:
+  filename: 6.6.5.4.1-201809041415-user-oce.zip
+  md5sum: 77725cd7347c8646d3b18a3209518866
+  timestamp: 1536045395
+  url: http://dl2.smartisan.cn/ota/OCEAN/ocean/20180904/6.6.5.4.1-201809041415-user-oce-77725cd734.zip
