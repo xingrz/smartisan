@@ -1,0 +1,26 @@
+{
+  "name": "sm-updater",
+  "version": "1.0.0",
+  "description": "SM Updater",
+  "private": true,
+  "main": "update.js",
+  "scripts": {
+    "test": "node update.js"
+  },
+  "dependencies": {
+    "bluebird": "^3.5.2",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.2",
+    "yaml": "^1.0.0-rc.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xingrz/smartisan.git"
+  },
+  "author": "XiNGRZ <chenxingyu92@gmail.com>",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/xingrz/smartisan/issues"
+  },
+  "homepage": "https://github.com/xingrz/smartisan#readme"
+}
