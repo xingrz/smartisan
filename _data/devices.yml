@@ -1,0 +1,91 @@
+- device: msm8974sfo
+  name: T1
+  tags: user
+
+- device: msm8974sfo_lte
+  name: T1 (LTE)
+  tags: user
+
+- device: msm8916_32
+  name: U1 (YQ601)
+  tags: user
+
+- device: msm8916_32_younger
+  name: U1 (YQ601 - Younger)
+  tags: user
+
+- device: msm8916_32_603
+  name: U1 (YQ603)
+  tags: user
+
+- device: msm8916_32_603_younger
+  name: U1 (YQ603 - Younger)
+  tags: user
+
+- device: msm8916_32_cmcc
+  name: U1 (YQ605)
+  tags: user
+
+- device: msm8916_32_cmcc_younger
+  name: U1 (YQ605 - Younger)
+  tags: user
+
+- device: msm8916_32_cdma
+  name: U1 (YQ607)
+  tags: user
+
+- device: msm8916_32_cdma_younger
+  name: U1 (YQ607 - Younger)
+  tags: user
+
+- device: icesky_msm8992
+  name: T2
+  tags: user
+
+- device: surabaya
+  name: M1
+  tags: user sek
+
+- device: colombo
+  name: M1L
+  tags: user sek
+
+- device: odin
+  name: U2 Pro
+  tags: user sek
+
+- device: odin_ct
+  name: U2 Pro (China Telecom)
+  tags: user sek
+
+- device: odin_cmcc
+  name: U2 Pro (China Mobile)
+  tags: user sek
+
+- device: osborn
+  name: U3 Pro
+  tags: user sek
+
+- device: osborn_cmcc
+  name: U3 Pro (China Mobile)
+  tags: user sek
+
+- device: oscar
+  name: U3
+  tags: user sek
+
+- device: oscar_cmcc
+  name: U3 (China Mobile)
+  tags: user sek
+
+- device: trident
+  name: R1
+  tags: user sek
+
+- device: oxford
+  name: U3 Pro SE
+  tags: user sek
+
+- device: ocean
+  name: Pro 2S
+  tags: user sek

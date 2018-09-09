@@ -1,0 +1,24 @@
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SM Updater</title>
+  <link href="https://smartisan.xingrz.io/" rel="alternate" />
+  <link href="https://smartisan.xingrz.io/atom.xml" rel="self" />
+  <id>https://smartisan.xingrz.io/</id>
+  <updated>{{ site.data.last_updated.timestamp | date_to_xmlschema }}</updated>
+
+{% for dev in site.data.devices %}
+{% assign link = site.data.links[dev.device] %}
+{% if link != null %}
+  <entry>
+    <id>{{ link.url }}</id>
+    <title>{{ dev.name }} ({{ dev.device }}) | {{ link.filename }}</title>
+    <updated>{{ link.timestamp | date_to_xmlschema }}</updated>
+    <link rel="alternate" href="{{ link.url }}"/>
+    <summary>md5: {{ link.md5sum }}</summary>
+  </entry>
+{% endif %}
+{% endfor %}
+
+</feed>

@@ -1,0 +1,47 @@
+---
+---
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>SM Updater</title>
+    <link href="atom.xml" type="application/atom+xml" rel="alternate" title="SM ATOM Feed" />
+    <style>
+      table {
+        border: 1px solid #DFDFDF;
+        border-collapse: collapse;
+      }
+      th, td {
+        text-align: left;
+        border: 1px solid #DFDFDF;
+        padding: 4px 8px;
+      }
+    </style>
+  </head>
+  <body>
+    <table>
+      <tr>
+        <th>name</th>
+        <th>code</th>
+        <th>url</th>
+        <th>md5</th>
+        <th>time</th>
+      </tr>
+    {% for dev in site.data.devices %}
+    {% assign link = site.data.links[dev.device] %}
+    {% if link != null %}
+      <tr>
+        <td>{{ dev.name }}</td>
+        <td><code>{{ dev.device }}</code></td>
+        <td><code><a href="{{ link.url }}">{{ link.filename }}</a></code></td>
+        <td><code>{{ link.md5sum }}</code></td>
+        <td><code>{{ link.timestamp | date_to_xmlschema }}</code></td>
+      </tr>
+    {% endif %}
+    {% endfor %}
+    </table>
+    <footer style="margin-top: 8px">
+      <a href="atom.xml">atom</a>
+      <a href="https://github.com/xingrz/smartisan">source</a>
+    </footer>
+  </body>
+</html>
