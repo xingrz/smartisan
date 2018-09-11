@@ -13,10 +13,10 @@
 {% if link != null %}
   <entry>
     <id>{{ link.url }}</id>
-    <title>{{ dev.name }} ({{ dev.device }}) | {{ link.filename }}</title>
+    <title>{{ link.filename }}</title>
     <updated>{{ link.timestamp | date_to_xmlschema }}</updated>
-    <link rel="alternate" href="{{ link.url }}"/>
-    <summary>md5: {{ link.md5sum }}</summary>
+    <link href="http://sm.xingrz.me/#{{ dev.device }}" rel="alternate" />
+    <summary>{{ dev.name }} | {{ link.url }} | {{ link.md5sum }}</summary>
     <author>
       <name>{{ dev.name }} ({{ dev.device }})</name>
     </author>
