@@ -99,10 +99,10 @@ oscar_cmcc:
   timestamp: 1524555329
   url: http://dl2.smartisan.cn/ota/OSCAR/oscar_cmcc/4.2.1.1/20180425/4.2.1.1-2018042413-user-ocr-7ab8fd0ad5.zip
 trident:
-  filename: 6.1.1-201808180043-user-trd.zip
-  md5sum: 1c4f423b872d4e78abb2bf56d2e3fea5
-  timestamp: 1534535464
-  url: http://dl2.smartisan.cn/ota/TRIDENT/trident/20180819/6.1.1-201808180043-user-trd-1c4f423b87.zip
+  filename: 6.1.2-201809050014-user-trd.zip
+  md5sum: b08f47f5ede7d47cae6a70f55172fdbe
+  timestamp: 1536098047
+  url: http://dl2.smartisan.cn/ota/TRIDENT/trident/20180905/6.1.2-201809050014-user-trd-b08f47f5ed.zip
 oxford:
   filename: 6.1.1-201809041006-user-of.zip
   md5sum: 3132c7374f21a350efe4617f4b355f30
