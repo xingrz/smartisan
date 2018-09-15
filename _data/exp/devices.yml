@@ -1,0 +1,26 @@
+- device: surabaya
+  tags: user sek show
+
+- device: colombo
+  tags: user sek show
+
+- device: odin
+  tags: user sek show
+
+- device: osborn
+  tags: user sek show
+
+- device: oscar
+  tags: user sek show
+
+- device: oscar_cmcc
+  tags: user sek show
+
+- device: trident
+  tags: user sek show
+
+- device: oxford
+  tags: user sek show
+
+- device: ocean
+  tags: user sek show

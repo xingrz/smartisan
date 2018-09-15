@@ -3,10 +3,8 @@ const { readFileSync, writeFileSync } = require('fs');
 const { mapSeries } = require('bluebird');
 const rp = require('request-promise');
 
-const devices = parse(readFileSync('_data/devices.yml', 'utf8'));
-
-mapSeries(devices, (item) =>
-  rp.post(process.env.UPDATE_URL, {
+function fetch(item) {
+  return rp.post(process.env.UPDATE_URL, {
     json: {
       params: {
         buildtime: '',
@@ -25,8 +23,11 @@ mapSeries(devices, (item) =>
       device: item.device,
       update: update,
     };
-  })
-)
+  });
+}
+
+const devices = parse(readFileSync('_data/devices.yml', 'utf8'));
+mapSeries(devices, (item) => fetch(item))
 .then(links => {
   let latest = '';
   let updated = 0;
@@ -45,4 +46,26 @@ mapSeries(devices, (item) =>
 
   writeFileSync('_data/links.yml', latest);
   writeFileSync('_data/last_updated.yml', `timestamp: ${updated}\n`);
+});
+
+const exp_devices = parse(readFileSync('_data/exp/devices.yml', 'utf8'));
+mapSeries(exp_devices, (item) => fetch(item))
+.then(links => {
+  let latest = '';
+  let updated = 0;
+  for (const item of links) {
+    if (item) {
+      latest += `${item.device}:\n`;
+      latest += `  filename: ${item.update.filename}\n`;
+      latest += `  md5sum: ${item.update.md5sum}\n`;
+      latest += `  timestamp: ${item.update.timestamp}\n`;
+      latest += `  url: ${item.update.url}\n`;
+      if (item.update.timestamp > updated) {
+        updated = item.update.timestamp;
+      }
+    }
+  }
+
+  writeFileSync('_data/exp/links.yml', latest);
+  writeFileSync('_data/exp/last_updated.yml', `timestamp: ${updated}\n`);
 });

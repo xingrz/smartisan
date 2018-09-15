@@ -3,8 +3,8 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>SM Updater</title>
-    <link href="atom.xml" type="application/atom+xml" rel="alternate" title="SM ATOM Feed" />
+    <title>SM Updater (exp)</title>
+    <link href="atom_exp.xml" type="application/atom+xml" rel="alternate" title="SM ATOM Feed" />
     <style>
       table {
         border: 1px solid #DFDFDF;
@@ -29,9 +29,9 @@
         <th>md5</th>
         <th>time</th>
       </tr>
-    {% assign last_updated = site.data.last_updated %}
+    {% assign last_updated = site.data.exp.last_updated %}
     {% for dev in site.data.devices %}
-    {% assign link = site.data.links[dev.device] %}
+    {% assign link = site.data.exp.links[dev.device] %}
     {% if link != null %}
       <tr{% if link.timestamp == last_updated.timestamp %} class="new"{% endif %}>
         <td>{{ dev.name }}</td>
@@ -44,9 +44,8 @@
     {% endfor %}
     </table>
     <footer style="margin-top: 8px">
-      <a href="atom.xml">atom</a>
+      <a href="atom_exp.xml">atom (exp)</a>
       <a href="https://github.com/xingrz/smartisan">source</a>
-      <a href="exp.html">exp</a>
       <code>{{ last_updated.timestamp | date_to_xmlschema }}</code>
     </footer>
   </body>
