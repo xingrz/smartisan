@@ -69,15 +69,15 @@ odin:
   timestamp: 1536102099
   url: http://dl2.smartisan.cn/ota/ODIN/odin/20180907/6.1.0-201809050358-user-od-b7604ff483.zip
 odin_ct:
-  filename: 4.2.0-2018041502-user-od.zip
-  md5sum: 013f0c14168c15e206a35b681353516a
-  timestamp: 1523740341
-  url: http://dl2.smartisan.cn/ota/ODIN/odin_ct/4.2.0/20180416/4.2.0-2018041502-user-od-013f0c1416.zip
+  filename: 6.1.0-201809041845-user-od.zip
+  md5sum: 9e79a517db2d8f51ea698633f2d8778d
+  timestamp: 1536064046
+  url: http://dl2.smartisan.cn/ota/ODIN/odin_ct/20180905/6.1.0-201809041845-user-od-9e79a517db.zip
 odin_cmcc:
-  filename: 4.2.0-2018041502-user-od.zip
-  md5sum: e2ec50b6ee234745d9b6dc7d794a8cbe
-  timestamp: 1523741949
-  url: http://dl2.smartisan.cn/ota/ODIN/odin_cmcc/4.2.0/20180416/4.2.0-2018041502-user-od-e2ec50b6ee.zip
+  filename: 6.1.0-201809041843-user-od.zip
+  md5sum: abd05530764101fc59cf59176787ae77
+  timestamp: 1536063598
+  url: http://dl2.smartisan.cn/ota/ODIN/odin_cmcc/20180905/6.1.0-201809041843-user-od-abd0553076.zip
 osborn:
   filename: 6.1.1-201809042142-user-ob.zip
   md5sum: a13a5e9d19fcc10d7ad20e59fcc70046
