@@ -84,20 +84,20 @@ osborn:
   timestamp: 1536077353
   url: http://dl2.smartisan.cn/ota/OSBORN/osborn/20180905/6.1.1-201809042142-user-ob-a13a5e9d19.zip
 osborn_cmcc:
-  filename: 6.0.0-201806192226-user-ob.zip
-  md5sum: 72a8dd155004d557f00118ad18d067f0
-  timestamp: 1529427393
-  url: http://dl2.smartisan.cn/ota/OSBORN/osborn_cmcc/20180620/6.0.0-201806192226-user-ob-72a8dd1550.zip
+  filename: 6.1.1-201809201654-user-ob.zip
+  md5sum: 9d6f1cc8407584a4200af2dfcb240aac
+  timestamp: 1537441734
+  url: http://dl2.smartisan.cn/ota/OSBORN/osborn_cmcc/20180921/6.1.1-201809201654-user-ob-9d6f1cc840.zip
 oscar:
   filename: 6.1.1-201808311612-user-ocr.zip
   md5sum: 45470517a049d402aa2dd72317c75215
   timestamp: 1535711222
   url: http://dl2.smartisan.cn/ota/OSCAR/oscar/20180831/6.1.1-201808311612-user-ocr-45470517a0.zip
 oscar_cmcc:
-  filename: 4.2.1.1-2018042413-user-ocr.zip
-  md5sum: 7ab8fd0ad57433144b18a74781c15dfe
-  timestamp: 1524555329
-  url: http://dl2.smartisan.cn/ota/OSCAR/oscar_cmcc/4.2.1.1/20180425/4.2.1.1-2018042413-user-ocr-7ab8fd0ad5.zip
+  filename: 6.1.1-201809201636-user-ocr.zip
+  md5sum: f1cce49022b2b3d1ce58736468d47c1d
+  timestamp: 1537438580
+  url: http://dl2.smartisan.cn/ota/OSCAR/oscar_cmcc/20180921/6.1.1-201809201636-user-ocr-f1cce49022.zip
 trident:
   filename: 6.1.2-201809050014-user-trd.zip
   md5sum: b08f47f5ede7d47cae6a70f55172fdbe
