@@ -89,10 +89,10 @@ osborn_cmcc:
   timestamp: 1537441734
   url: http://dl2.smartisan.cn/ota/OSBORN/osborn_cmcc/20180921/6.1.1-201809201654-user-ob-9d6f1cc840.zip
 oscar:
-  filename: 6.1.1-201808311612-user-ocr.zip
-  md5sum: 45470517a049d402aa2dd72317c75215
-  timestamp: 1535711222
-  url: http://dl2.smartisan.cn/ota/OSCAR/oscar/20180831/6.1.1-201808311612-user-ocr-45470517a0.zip
+  filename: 6.1.2-201810111025-user-ocr.zip
+  md5sum: e40454f6cc0c572d3946861c9903e309
+  timestamp: 1539230412
+  url: http://dl2.smartisan.cn/ota/OSCAR/oscar/6.1.2/20181016/6.1.2-201810111025-user-ocr-e40454f6cc.zip
 oscar_cmcc:
   filename: 6.1.1-201809201636-user-ocr.zip
   md5sum: f1cce49022b2b3d1ce58736468d47c1d
@@ -104,10 +104,10 @@ trident:
   timestamp: 1539335294
   url: http://dl2.smartisan.cn/ota/TRIDENT/trident/6.6.1.1_TNT/20181012/6.6.1.1_TNT-201810121434-user-trd-4fd1eed0b6.zip
 oxford:
-  filename: 6.1.1-201809041006-user-of.zip
-  md5sum: 3132c7374f21a350efe4617f4b355f30
-  timestamp: 1536032499
-  url: http://dl2.smartisan.cn/ota/OXFORD/oxford/20180904/6.1.1-201809041006-user-of-3132c7374f.zip
+  filename: 6.1.2-201810101910-user-of.zip
+  md5sum: 82b1eeb2711fb31842ae5b5824759761
+  timestamp: 1539174013
+  url: http://dl2.smartisan.cn/ota/OXFORD/oxford/6.1.2/20181012/6.1.2-201810101910-user-of-82b1eeb271.zip
 ocean:
   filename: 6.6.5.5.1_TNT-201810121135-user-oce.zip
   md5sum: 599a0b1671b746c520f14ff764213db6
