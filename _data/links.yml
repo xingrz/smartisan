@@ -79,15 +79,15 @@ odin_cmcc:
   timestamp: 1536063598
   url: http://dl2.smartisan.cn/ota/ODIN/odin_cmcc/20180905/6.1.0-201809041843-user-od-abd0553076.zip
 osborn:
-  filename: 6.1.2.1-201810292004-user-ob.zip
-  md5sum: 508d416672e094888b0f07d10a698fc2
-  timestamp: 1540819463
-  url: http://dl2.smartisan.cn/ota/OSBORN/osborn/6.1.2.1/20181030/6.1.2.1-201810292004-user-ob-508d416672.zip
+  filename: 6.1.3-201811231549-user-ob.zip
+  md5sum: 6b171320fcb59737a55cb96398a65752
+  timestamp: 1542966089
+  url: http://dl2.smartisan.cn/ota/OSBORN/osborn/6.1.3/20181123/6.1.3-201811231549-user-ob-6b171320fc.zip
 osborn_cmcc:
-  filename: 6.1.1-201809201654-user-ob.zip
-  md5sum: 9d6f1cc8407584a4200af2dfcb240aac
-  timestamp: 1537441734
-  url: http://dl2.smartisan.cn/ota/OSBORN/osborn_cmcc/20180921/6.1.1-201809201654-user-ob-9d6f1cc840.zip
+  filename: 6.1.3-201811221809-user-ob.zip
+  md5sum: f8b3ac05faddf74d2d5bbaa3b339c5a3
+  timestamp: 1542888054
+  url: http://dl2.smartisan.cn/ota/OSBORN/osborn_cmcc/6.1.3/20181126/6.1.3-201811221809-user-ob-f8b3ac05fa.zip
 oscar:
   filename: 6.1.2.1-201810301624-user-ocr.zip
   md5sum: 750538aedf20c7ef3efbc9b232f91a76
