@@ -104,10 +104,10 @@ trident:
   timestamp: 1547456717
   url: http://dl2.smartisan.com/ota/TRIDENT/trident/6.6.5.2_TNT/20190115/6.6.5.2_TNT-201901141509-user-trd-1e72a72a96.zip
 oxford:
-  filename: 6.1.2.1-201810301914-user-of.zip
-  md5sum: 62921f83d19d7099282cc84fa9e61ca1
-  timestamp: 1540905109
-  url: http://dl2.smartisan.com/ota/OXFORD/oxford/6.1.2.1/20181031/6.1.2.1-201810301914-user-of-62921f83d1.zip
+  filename: 6.1.4-201902131516-user-of.zip
+  md5sum: 818be563bcbeadff14e0b1152e977375
+  timestamp: 1550047168
+  url: http://dl2.smartisan.com/ota/OXFORD/oxford/6.1.4/20190213/6.1.4-201902131516-user-of-818be563bc.zip
 ocean:
   filename: 6.6.5.5.4_TNT-201901150118-user-oce.zip
   md5sum: 9420c6df8d2081232b104f38dd3e1ac2
