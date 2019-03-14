@@ -89,10 +89,10 @@ osborn_cmcc:
   timestamp: 1542888054
   url: http://dl2.smartisan.com/ota/OSBORN/osborn_cmcc/6.1.3/20181126/6.1.3-201811221809-user-ob-f8b3ac05fa.zip
 oscar:
-  filename: 6.1.2.1-201810301624-user-ocr.zip
-  md5sum: 750538aedf20c7ef3efbc9b232f91a76
-  timestamp: 1540895764
-  url: http://dl2.smartisan.com/ota/OSCAR/oscar/6.1.2.1/20181031/6.1.2.1-201810301624-user-ocr-750538aedf.zip
+  filename: 6.1.4-201903061424-user-ocr.zip
+  md5sum: 25bca9ef99de29862ee41ca225cb036e
+  timestamp: 1551859438
+  url: http://dl2.smartisan.com/ota/OSCAR/oscar/6.1.4/20190307/6.1.4-201903061424-user-ocr-25bca9ef99.zip
 oscar_cmcc:
   filename: 6.1.1-201809201636-user-ocr.zip
   md5sum: f1cce49022b2b3d1ce58736468d47c1d
