@@ -109,7 +109,7 @@ oxford:
   timestamp: 1550047168
   url: http://dl2.smartisan.com/ota/OXFORD/oxford/6.1.4/20190213/6.1.4-201902131516-user-of-818be563bc.zip
 ocean:
-  filename: 6.6.6_TNT-201903130004-user-oce.zip
-  md5sum: d3ab68cfa6f09b03d884bd14b27679fc
-  timestamp: 1552409978
-  url: http://dl2.smartisan.com/ota/OCEAN/ocean/6.6.6_TNT/20190313/6.6.6_TNT-201903130004-user-oce-d3ab68cfa6.zip
+  filename: 6.6.6.2_TNT-201904101033-user-oce.zip
+  md5sum: cc838a8f256f262bddb7bb6ff76dec49
+  timestamp: 1554867656
+  url: http://dl2.smartisan.com/ota/OCEAN/ocean/6.6.6.2_TNT/20190410/6.6.6.2_TNT-201904101033-user-oce-cc838a8f25.zip
