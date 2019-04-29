@@ -3,9 +3,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>SM Updater</title>
-  <link href="http://sm.xingrz.me/" rel="alternate" />
-  <link href="http://sm.xingrz.me/atom.xml" rel="self" />
-  <id>http://sm.xingrz.me/</id>
+  <link href="https://sm.xingrz.me/" rel="alternate" />
+  <link href="https://sm.xingrz.me/atom.xml" rel="self" />
+  <id>https://sm.xingrz.me/</id>
   <updated>{{ site.data.last_updated.timestamp | date_to_xmlschema }}</updated>
 
 {% for dev in site.data.devices %}
@@ -15,7 +15,7 @@
     <id>{{ link.url }}</id>
     <title>{{ link.filename }}</title>
     <updated>{{ link.timestamp | date_to_xmlschema }}</updated>
-    <link href="http://sm.xingrz.me/#{{ dev.device }}" rel="alternate" />
+    <link href="https://sm.xingrz.me/#{{ dev.device }}" rel="alternate" />
     <summary>{{ dev.name }} | {{ link.url }} | {{ link.md5sum }}</summary>
     <author>
       <name>{{ dev.name }} ({{ dev.device }})</name>
