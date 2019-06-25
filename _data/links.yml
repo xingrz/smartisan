@@ -64,10 +64,10 @@ colombo:
   timestamp: 1539678807
   url: http://dl2.smartisan.com/ota/M1/colombo/6.1.2/20181017/6.1.2-201810161455-user-col-be5ca0d625.zip
 odin:
-  filename: 6.1.3-201901161720-user-od.zip
-  md5sum: 42fcd464f30e1d23a8f6761575cf2f5b
-  timestamp: 1547635465
-  url: http://dl2.smartisan.com/ota/ODIN/odin/6.1.3/20190117/6.1.3-201901161720-user-od-42fcd464f3.zip
+  filename: 6.7.0-201906130902-user-od.zip
+  md5sum: 888f0d35434e9d4345d84b42367a0519
+  timestamp: 1560392262
+  url: http://dl2.smartisan.com/ota/ODIN/odin/6.7.0/20190613/6.7.0-201906130902-user-od-888f0d3543.zip
 odin_ct:
   filename: 6.1.0-201809041845-user-od.zip
   md5sum: 9e79a517db2d8f51ea698633f2d8778d
@@ -79,10 +79,10 @@ odin_cmcc:
   timestamp: 1536063598
   url: http://dl2.smartisan.com/ota/ODIN/odin_cmcc/20180905/6.1.0-201809041843-user-od-abd0553076.zip
 osborn:
-  filename: 6.7.0.1-201906111921-user-ob.zip
-  md5sum: cccc8e395b9646b4b41bf158fdf7e312
-  timestamp: 1560257165
-  url: http://dl2.smartisan.com/ota/OSBORN/osborn/6.7.0.1/20190612/6.7.0.1-201906111921-user-ob-cccc8e395b.zip
+  filename: 6.1.4-201903111951-user-ob.zip
+  md5sum: 85683701b99affcb58fbac4b56675808
+  timestamp: 1552314644
+  url: http://dl2.smartisan.com/ota/OSBORN/osborn/6.1.4/20190312/6.1.4-201903111951-user-ob-85683701b9.zip
 osborn_cmcc:
   filename: 6.1.3-201811221809-user-ob.zip
   md5sum: f8b3ac05faddf74d2d5bbaa3b339c5a3
@@ -104,10 +104,10 @@ trident:
   timestamp: 1557744860
   url: http://dl2.smartisan.com/ota/TRIDENT/trident/6.7.0/20190513/6.7.0-201905131627-user-trd-a067defb80.zip
 oxford:
-  filename: 6.7.0.1-201906112041-user-of.zip
-  md5sum: f6568b3b51ea23fbada60efeac26d580
-  timestamp: 1560265112
-  url: http://dl2.smartisan.com/ota/OXFORD/oxford/6.7.0.1/20190612/6.7.0.1-201906112041-user-of-f6568b3b51.zip
+  filename: 6.1.4-201902131516-user-of.zip
+  md5sum: 818be563bcbeadff14e0b1152e977375
+  timestamp: 1550047168
+  url: http://dl2.smartisan.com/ota/OXFORD/oxford/6.1.4/20190213/6.1.4-201902131516-user-of-818be563bc.zip
 ocean:
   filename: 6.7.0-201905131613-user-oce.zip
   md5sum: a4cfceb8f8eb6773d957da27d7a5f532
