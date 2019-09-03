@@ -54,15 +54,15 @@ icesky_msm8992:
   timestamp: 1535710500
   url: http://dl2.smartisan.com/ota/t2/20180831/4.2.6-201808311703-user-is-94fcccf1d8.zip
 surabaya:
-  filename: 6.1.2-201810161452-user-sur.zip
-  md5sum: ecd48a96b9d92ffa72b7a2de89cd76bf
-  timestamp: 1539677968
-  url: http://dl2.smartisan.com/ota/M1/surabaya/6.1.2/20181017/6.1.2-201810161452-user-sur-ecd48a96b9.zip
+  filename: 6.1.3-201908231156-user-sur.zip
+  md5sum: af7ff9a104e58d31d851a1c7ebdae8a2
+  timestamp: 1566538701
+  url: http://dl2.smartisan.com/ota/M1/surabaya/6.1.3/20190823/6.1.3-201908231156-user-sur-af7ff9a104.zip
 colombo:
-  filename: 6.1.2-201810161455-user-col.zip
-  md5sum: be5ca0d625ae2aadd9e6a67ae56dca33
-  timestamp: 1539678807
-  url: http://dl2.smartisan.com/ota/M1/colombo/6.1.2/20181017/6.1.2-201810161455-user-col-be5ca0d625.zip
+  filename: 6.1.3-201908231426-user-col.zip
+  md5sum: 8fd5a0677d5e3642982425650b987936
+  timestamp: 1566546855
+  url: http://dl2.smartisan.com/ota/M1/colombo/6.1.3/20190823/6.1.3-201908231426-user-col-8fd5a0677d.zip
 odin:
   filename: 6.7.1-201908161546-user-od.zip
   md5sum: 69bacca9e9e7a36e9c5bdcddbb4737d7
