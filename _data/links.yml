@@ -113,3 +113,8 @@ ocean:
   md5sum: 62ef9df6b615c85adb766c1fbc513a80
   timestamp: 1571222274
   url: http://dl2.smartisan.com/ota/OCEAN/ocean/6.7.2.1_TNT/20191016/6.7.2.1_TNT-201910161736-user-oce-62ef9df6b6.zip
+delta:
+  filename: 7.1.0-201910311044-user-dlt.zip
+  md5sum: 555f80f67e38b818cbfd4f22b607132d
+  timestamp: 1572493949
+  url: http://dl2.smartisan.com/ota/delta/7.1.0/20191031/7.1.0-201910311044-user-dlt-555f80f67e.zip
