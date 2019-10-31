@@ -89,3 +89,7 @@
 - device: ocean
   name: Pro 2S
   tags: user sek
+
+- device: delta
+  name: Pro 3
+  tags: user sek
