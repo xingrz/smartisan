@@ -114,7 +114,7 @@ ocean:
   timestamp: 1571222274
   url: http://dl2.smartisan.com/ota/OCEAN/ocean/6.7.2.1_TNT/20191016/6.7.2.1_TNT-201910161736-user-oce-62ef9df6b6.zip
 delta:
-  filename: 7.1.0.1-201911031927-user-dlt.zip
-  md5sum: 12f6d2d844e1cd5e4e2f4184cd97574a
-  timestamp: 1572784986
-  url: http://dl2.smartisan.com/ota/delta/7.1.0.1/20191103/7.1.0.1-201911031927-user-dlt-12f6d2d844.zip
+  filename: 7.1.1-201911071653-user-dlt.zip
+  md5sum: 5eab4bd02b2b4975633392de7da61889
+  timestamp: 1573122579
+  url: http://dl2.smartisan.com/ota/delta/7.1.1/20191107/7.1.1-201911071653-user-dlt-5eab4bd02b.zip
