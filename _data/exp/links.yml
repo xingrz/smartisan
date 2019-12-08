@@ -38,3 +38,8 @@ ocean:
   md5sum: 5804e4a86e66d7b3c0afccf82d986585
   timestamp: 1535180457
   url: http://dl2.smartisan.com/ota/tiyan/OCEAN/ocean/20180825/6.6.5.9.1-201808251355-user-oce-5804e4a86e.zip
+delta:
+  filename: 7.2.0-201912050134-user-dlt.zip
+  md5sum: 5c6896e5e1c85ccc8628b9be49965eee
+  timestamp: 1575534428
+  url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.delta-rom-7.0.0-SEKSA.delta-user/201912050754/7.2.0-201912050134-user-dlt-1ea650a54f-root.zip

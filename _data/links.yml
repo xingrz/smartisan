@@ -113,8 +113,3 @@ ocean:
   md5sum: ded9ac8fd6ceecf3e9b12a345f509a77
   timestamp: 1574331666
   url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.ocean-trinity-6.6.6-SEKSA.ocean-user/201911211820/6.7.2.2_TNT-201911211658-user-oce-ded9ac8fd6.zip
-delta:
-  filename: 7.2.0-201912050134-user-dlt.zip
-  md5sum: 5c6896e5e1c85ccc8628b9be49965eee
-  timestamp: 1575534428
-  url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.delta-rom-7.0.0-SEKSA.delta-user/201912050754/7.2.0-201912050134-user-dlt-1ea650a54f-root.zip
