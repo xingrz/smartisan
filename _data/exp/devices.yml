@@ -24,7 +24,3 @@
 
 - device: ocean
   tags: user sek show
-
-- device: delta
-  name: Pro 3
-  tags: user sek

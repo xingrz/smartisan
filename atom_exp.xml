@@ -1,0 +1,27 @@
+---
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>SM Updater (exp)</title>
+  <link href="https://sm.xingrz.me/exp.html" rel="alternate" />
+  <link href="https://sm.xingrz.me/atom_exp.xml" rel="self" />
+  <id>https://sm.xingrz.me/</id>
+  <updated>{{ site.data.exp.last_updated.timestamp | date_to_xmlschema }}</updated>
+
+{% for dev in site.data.devices %}
+{% assign link = site.data.exp.links[dev.device] %}
+{% if link != null %}
+  <entry>
+    <id>{{ link.url }}</id>
+    <title>{{ link.filename }}</title>
+    <updated>{{ link.timestamp | date_to_xmlschema }}</updated>
+    <link href="https://sm.xingrz.me/#{{ dev.device }}" rel="alternate" />
+    <summary>{{ dev.name }} | {{ link.url }} | {{ link.md5sum }}</summary>
+    <author>
+      <name>{{ dev.name }} ({{ dev.device }})</name>
+    </author>
+  </entry>
+{% endif %}
+{% endfor %}
+
+</feed>
