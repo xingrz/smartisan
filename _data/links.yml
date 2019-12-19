@@ -114,7 +114,7 @@ ocean:
   timestamp: 1574331666
   url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.ocean-trinity-6.6.6-SEKSA.ocean-user/201911211820/6.7.2.2_TNT-201911211658-user-oce-ded9ac8fd6.zip
 delta:
-  filename: 7.2.0_beta8-201912171613-user-dlt.zip
-  md5sum: 672ad2efa6d5a70867fdb2bf3d7658f9
-  timestamp: 1576582151
-  url: http://stone-ota-download.bytedance.net/mol.delta-rom-7.0.0-SEKSA.delta-user/201912171732/7.2.0_beta8-201912171613-user-dlt-696c965d8c-root.zip
+  filename: 7.2.0-201912191455-user-dlt.zip
+  md5sum: 21da45e152a05ec823cabf7d90e0e086
+  timestamp: 1576750471
+  url: http://stone-ota-download.bytedance.net/mol.delta-rom-7.0.0-SEKSA.delta-user/201912191600/7.2.0-201912191455-user-dlt-c2b28f0d4d-root.zip
