@@ -99,20 +99,20 @@ oscar_cmcc:
   timestamp: 1573038939
   url: http://dl2.smartisan.com/ota/OSCAR/oscar_cmcc/6.7.2/20191107/6.7.2-201911061637-user-ocr-567f3303c6.zip
 trident:
-  filename: 6.7.2.2_TNT-201911211655-user-trd.zip
-  md5sum: 0db025bb931ea1a1d41a4a8c7539be3a
-  timestamp: 1574337884
-  url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.trident-trinity-6.6.6-SEKSA.trident-user/201911212004/6.7.2.2_TNT-201911211655-user-trd-0db025bb93.zip
+  filename: 6.7.3_TNT-201912231154-user-trd.zip
+  md5sum: 1ba1cb7a87a7029e9b048332ed802837
+  timestamp: 1577080465
+  url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.trident-trinity-6.6.6-SEKSA.trident-user/201912231353/6.7.3_TNT-201912231154-user-trd-1ba1cb7a87.zip
 oxford:
   filename: 6.7.2-201910251141-user-of.zip
   md5sum: ad2d297dfc447cfdd5beb10e3e966538
   timestamp: 1571981482
   url: http://dl2.smartisan.com/ota/OXFORD/oxford/6.7.2/20191025/6.7.2-201910251141-user-of-ad2d297dfc.zip
 ocean:
-  filename: 6.7.2.2_TNT-201911211658-user-oce.zip
-  md5sum: ded9ac8fd6ceecf3e9b12a345f509a77
-  timestamp: 1574331666
-  url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.ocean-trinity-6.6.6-SEKSA.ocean-user/201911211820/6.7.2.2_TNT-201911211658-user-oce-ded9ac8fd6.zip
+  filename: 6.7.3_TNT-201912231145-user-oce.zip
+  md5sum: 35cc14a5bb773f69670a208de1061a61
+  timestamp: 1577076665
+  url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.ocean-trinity-6.6.6-SEKSA.ocean-user/201912231250/6.7.3_TNT-201912231145-user-oce-35cc14a5bb.zip
 delta:
   filename: 7.1.5-201912092149-user-dlt.zip
   md5sum: 1bba97a226e390c5ed3bbe62dbde6b63
