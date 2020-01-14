@@ -64,10 +64,10 @@ colombo:
   timestamp: 1566546855
   url: http://dl2.smartisan.com/ota/M1/colombo/6.1.3/20190823/6.1.3-201908231426-user-col-8fd5a0677d.zip
 odin:
-  filename: 6.7.2-201911061542-user-od.zip
-  md5sum: 5694ce1622dda01373a19d025ad82a70
-  timestamp: 1573032227
-  url: http://dl2.smartisan.com/ota/ODIN/odin/6.7.2/20191106/6.7.2-201911061542-user-od-5694ce1622.zip
+  filename: 6.7.3-201912311911-user-od.zip
+  md5sum: ed1614aac3375f15d4ef1e031434482f
+  timestamp: 1577797092
+  url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.odin-rom-4.4.0-SEKSA.odin-user/201912312057/6.7.3-201912311911-user-od-ed1614aac3.zip
 odin_ct:
   filename: 6.7.2-201911061638-user-od.zip
   md5sum: a4248b7ad308c28b096c92eb792432d0
