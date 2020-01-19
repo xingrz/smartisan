@@ -89,30 +89,30 @@ osborn_cmcc:
   timestamp: 1573035448
   url: http://dl2.smartisan.com/ota/OSBORN/osborn_cmcc/6.7.2/20191107/6.7.2-201911061636-user-ob-992a179107.zip
 oscar:
-  filename: 6.7.2-201911061527-user-ocr.zip
-  md5sum: 6f501241a04c01a4c48128cdfda07c3f
-  timestamp: 1573032860
-  url: http://dl2.smartisan.com/ota/OSCAR/oscar/6.7.2/20191106/6.7.2-201911061527-user-ocr-6f501241a0.zip
+  filename: 6.7.3-201912311824-user-ocr.zip
+  md5sum: 659c9cecaf343b4f0fa3c5a504dcf211
+  timestamp: 1577792025
+  url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/ontim-oscar.mol.oscar-rom-4.4.0-SEKSA.oscar-user/201912311933/6.7.3-201912311824-user-ocr-659c9cecaf.zip
 oscar_cmcc:
   filename: 6.7.2-201911061637-user-ocr.zip
   md5sum: 567f3303c6c509ab3522094690392dfc
   timestamp: 1573038939
   url: http://dl2.smartisan.com/ota/OSCAR/oscar_cmcc/6.7.2/20191107/6.7.2-201911061637-user-ocr-567f3303c6.zip
 trident:
-  filename: 6.7.3_TNT-201912231154-user-trd.zip
-  md5sum: 1ba1cb7a87a7029e9b048332ed802837
-  timestamp: 1577080465
-  url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.trident-trinity-6.6.6-SEKSA.trident-user/201912231353/6.7.3_TNT-201912231154-user-trd-1ba1cb7a87.zip
+  filename: 6.7.3.2_TNT-202001131535-user-trd.zip
+  md5sum: 86d783042b57f10e878237e3f2344965
+  timestamp: 1578908992
+  url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.trident-trinity-6.6.6-SEKSA.trident-user/202001131749/6.7.3.2_TNT-202001131535-user-trd-86d783042b.zip
 oxford:
   filename: 6.7.3-201912271617-user-of.zip
   md5sum: 97f4f5e0cfb32575989c4fc4b479c1d1
   timestamp: 1577439966
   url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.osborn-rom-4.4.0-SEKSA.oxford-user/201912271745/6.7.3-201912271617-user-of-97f4f5e0cf.zip
 ocean:
-  filename: 6.7.3_TNT-201912231145-user-oce.zip
-  md5sum: 35cc14a5bb773f69670a208de1061a61
-  timestamp: 1577076665
-  url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.ocean-trinity-6.6.6-SEKSA.ocean-user/201912231250/6.7.3_TNT-201912231145-user-oce-35cc14a5bb.zip
+  filename: 6.7.3.2_TNT-202001131542-user-oce.zip
+  md5sum: adc363fa738aed167b5b8f9afa74e233
+  timestamp: 1578907287
+  url: https://smartisan-ota.oss-cn-beijing.aliyuncs.com/ota/mol.ocean-trinity-6.6.6-SEKSA.ocean-user/202001131721/6.7.3.2_TNT-202001131542-user-oce-adc363fa73.zip
 delta:
   filename: 7.2.1-202001082107-user-dlt.zip
   md5sum: 288cc8f8a6a197f9b2c033c33c17fc31
