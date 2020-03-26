@@ -114,7 +114,7 @@ ocean:
   timestamp: 1578907287
   url: https://dl3.smartisan.com/ota/mol.ocean-trinity-6.6.6-SEKSA.ocean-user/202001131721/6.7.3.2_TNT-202001131542-user-oce-adc363fa73.zip
 delta:
-  filename: 7.3.0-202003050018-user-dlt.zip
-  md5sum: c10b4497adcfad5a81a8503989f5a808
-  timestamp: 1583348204
-  url: https://dl3.smartisan.com/ota/rls.delta-mol-7.0.0-20200304-SEKSA.delta-user/202003050252/7.3.0-202003050018-user-dlt-c10b4497ad.zip
+  filename: 7.3.0.1-202003171855-user-dlt.zip
+  md5sum: 51bcb071e34717dd2688866115356b3f
+  timestamp: 1584448612
+  url: https://dl3.smartisan.com/ota/rls.delta-mol-7.0.0-20200304-SEKSA.delta-user/202003172036/7.3.0.1-202003171855-user-dlt-51bcb071e3.zip
