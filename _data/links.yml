@@ -99,20 +99,20 @@ oscar_cmcc:
   timestamp: 1573038939
   url: http://dl2.smartisan.com/ota/OSCAR/oscar_cmcc/6.7.2/20191107/6.7.2-201911061637-user-ocr-567f3303c6.zip
 trident:
-  filename: 6.7.3.2_TNT-202001131535-user-trd.zip
-  md5sum: 86d783042b57f10e878237e3f2344965
-  timestamp: 1578908992
-  url: https://dl3.smartisan.com/ota/mol.trident-trinity-6.6.6-SEKSA.trident-user/202001131749/6.7.3.2_TNT-202001131535-user-trd-86d783042b.zip
+  filename: 7.0.1-202003231703-user-trd.zip
+  md5sum: 55fafd5fd9f1fa6c4e8d2f687bbad559
+  timestamp: 1584967003
+  url: https://dl3.smartisan.com/ota/rls.trident-mol-7.0.0-20200316-SEKSA.trident-user/202003232036/7.0.1-202003231703-user-trd-55fafd5fd9.zip
 oxford:
   filename: 6.7.3-201912271617-user-of.zip
   md5sum: 97f4f5e0cfb32575989c4fc4b479c1d1
   timestamp: 1577439966
   url: https://dl3.smartisan.com/ota/mol.osborn-rom-4.4.0-SEKSA.oxford-user/201912271745/6.7.3-201912271617-user-of-97f4f5e0cf.zip
 ocean:
-  filename: 6.7.3.2_TNT-202001131542-user-oce.zip
-  md5sum: adc363fa738aed167b5b8f9afa74e233
-  timestamp: 1578907287
-  url: https://dl3.smartisan.com/ota/mol.ocean-trinity-6.6.6-SEKSA.ocean-user/202001131721/6.7.3.2_TNT-202001131542-user-oce-adc363fa73.zip
+  filename: 7.0.1-202003231712-user-oce.zip
+  md5sum: c7c020b2fe30b3e2deeb71e37ea4cf07
+  timestamp: 1584964383
+  url: https://dl3.smartisan.com/ota/rls.ocean-mol-7.0.0-20200316-SEKSA.ocean-user/202003231945/7.0.1-202003231712-user-oce-c7c020b2fe.zip
 delta:
   filename: 7.3.0.1-202003171855-user-dlt.zip
   md5sum: 51bcb071e34717dd2688866115356b3f
