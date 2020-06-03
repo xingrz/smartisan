@@ -109,10 +109,10 @@ oxford:
   timestamp: 1587113117
   url: https://dl3.smartisan.com/ota/rls.osborn-mol-4.4.0-20200416-SEKSA.oxford-user/202004171644/6.7.3.1-202004171525-user-of-09d80c664a.zip
 ocean:
-  filename: 7.0.1.1-202004152055-user-oce.zip
-  md5sum: a01c19c6023453d897fa14a5066f8446
-  timestamp: 1586959282
-  url: https://dl3.smartisan.com/ota/rls.ocean-mol-7.0.0-20200316-SEKSA.ocean-user/202004152201/7.0.1.1-202004152055-user-oce-a01c19c602.zip
+  filename: 7.1.0-202005241500-user-oce.zip
+  md5sum: 8cb63e6f2ef6347de75db4bc519b049b
+  timestamp: 1590307537
+  url: https://dl3.smartisan.com/ota/rls.ocean-mol-7.0.0-20200515-SEKSA.ocean-user/202005241605/7.1.0-202005241500-user-oce-8cb63e6f2e.zip
 delta:
   filename: 7.3.1-202005061416-user-dlt.zip
   md5sum: 50c0afe9513553c48ed0c8ed48e66317
