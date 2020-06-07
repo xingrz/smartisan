@@ -79,10 +79,10 @@ odin_cmcc:
   timestamp: 1573034907
   url: http://dl2.smartisan.com/ota/ODIN/odin_cmcc/6.7.2/20191108/6.7.2-201911061642-user-od-4a5688c7f9.zip
 osborn:
-  filename: 6.7.3.1-202004171536-user-ob.zip
-  md5sum: 539ee0fe42649d26c49995d79291d0bd
-  timestamp: 1587113722
-  url: https://dl3.smartisan.com/ota/rls.osborn-mol-4.4.0-20200416-SEKSA.osborn-user/202004171655/6.7.3.1-202004171536-user-ob-539ee0fe42.zip
+  filename: 6.7.4-202005272051-user-ob.zip
+  md5sum: f15d878d76048cc95aa5bcb6d364b6c3
+  timestamp: 1590589484
+  url: https://dl3.smartisan.com/ota/rls.osborn-mol-4.4.0-20200416-SEKSA.osborn-user/202005272224/6.7.4-202005272051-user-ob-f15d878d76.zip
 osborn_cmcc:
   filename: 6.7.2-201911061636-user-ob.zip
   md5sum: 992a179107b2f4d1c613e07be47173df
@@ -104,10 +104,10 @@ trident:
   timestamp: 1590312799
   url: https://dl3.smartisan.com/ota/rls.trident-mol-7.0.0-20200521-SEKSA.trident-user/202005241732/7.1.0.1-202005241503-user-trd-72bcd6e608.zip
 oxford:
-  filename: 6.7.3.1-202004171525-user-of.zip
-  md5sum: 09d80c664ad176577331743e58362d3b
-  timestamp: 1587113117
-  url: https://dl3.smartisan.com/ota/rls.osborn-mol-4.4.0-20200416-SEKSA.oxford-user/202004171644/6.7.3.1-202004171525-user-of-09d80c664a.zip
+  filename: 6.7.4-202005272125-user-of.zip
+  md5sum: b1856bf123781092f1d8821f77f2d0ce
+  timestamp: 1590591307
+  url: https://dl3.smartisan.com/ota/rls.osborn-mol-4.4.0-20200416-SEKSA.oxford-user/202005272254/6.7.4-202005272125-user-of-b1856bf123.zip
 ocean:
   filename: 7.1.0-202005241500-user-oce.zip
   md5sum: 8cb63e6f2ef6347de75db4bc519b049b
