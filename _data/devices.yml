@@ -93,7 +93,3 @@
 - device: delta
   name: Pro 3
   tags: user sek
-
-- device: darwin
-  name: R2
-  tags: user sek
