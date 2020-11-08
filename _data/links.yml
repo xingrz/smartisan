@@ -119,7 +119,7 @@ delta:
   timestamp: 1600584379
   url: https://dl3.smartisan.com/ota/rls.delta-ard10-mol-7.5.0-20200810-SEKSA.delta-user/202009201446/7.5.0.1-202009201220-user-dlt-1293671435.zip
 darwin:
-  filename: 8.0.2-202010241351-user-drw.zip
-  md5sum: 7abad774feb1768c9c7d743eda4e28c6
-  timestamp: 1603528363
-  url: https://dl3.smartisan.com/ota/rls.darwin-mol-8.0.0-20201016-SEKSA.darwin-user/202010241632/8.0.2-202010241351-user-drw-7abad774fe.zip
+  filename: 8.0.3-202011061805-user-drw.zip
+  md5sum: 87bd0dd2c961b95fd587d0039bb3ece5
+  timestamp: 1604668135
+  url: https://dl3.smartisan.com/ota/rls.darwin-mol-8.0.0-20201016-SEKSA.darwin-user/202011062108/8.0.3-202011061805-user-drw-87bd0dd2c9.zip
