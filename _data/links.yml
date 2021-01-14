@@ -114,12 +114,12 @@ ocean:
   timestamp: 1604487563
   url: https://dl3.smartisan.com/ota/mol.ocean-rom-7.0.0-SEKSA.ocean-user/202011041859/7.2.0.1-202011041814-user-oce-12089ab530.zip
 delta:
-  filename: 7.5.0.1-202009201220-user-dlt.zip
-  md5sum: 12936714358c9434a946b731d8a158b5
-  timestamp: 1600584379
-  url: https://dl3.smartisan.com/ota/rls.delta-ard10-mol-7.5.0-20200810-SEKSA.delta-user/202009201446/7.5.0.1-202009201220-user-dlt-1293671435.zip
+  filename: 7.5.0.3-202101061625-user-dlt.zip
+  md5sum: 4f26c59c134196b5850691d5a4214de4
+  timestamp: 1609928907
+  url: https://dl3.smartisan.com/ota/rls.delta-ard10-mol-7.5.0-20200810-SEKSA.delta-user/202101061828/7.5.0.3-202101061625-user-dlt-4f26c59c13.zip
 darwin:
-  filename: 8.1.1-202012082239-user-drw.zip
-  md5sum: d1f6e8e1d7350f950d0d3c6cae96985f
-  timestamp: 1607457251
-  url: https://dl3.smartisan.com/ota/rls.darwin-mol-8.0.0-20201127-SEKSA.darwin-user/202012090354/8.1.1-202012082239-user-drw-d1f6e8e1d7.zip
+  filename: 8.1.2-202101101524-user-drw.zip
+  md5sum: 2c5179fdb7875d4638d0a8bc64ddc5be
+  timestamp: 1610276289
+  url: https://dl3.smartisan.com/ota/rls.darwin-mol-8.0.0-20201230-SEKSA.darwin-user/202101101858/8.1.2-202101101524-user-drw-2c5179fdb7.zip
