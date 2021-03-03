@@ -1,0 +1,42 @@
+name: Nightly update
+
+on:
+  push:
+    branches: [ master ]
+  schedule:
+    - cron: "0 16 * * *"
+
+jobs:
+  update:
+    runs-on: ubuntu-20.04
+
+    steps:
+      - uses: actions/checkout@v2
+        with:
+          fetch-depth: 2
+
+      - uses: actions/setup-node@v2
+        with:
+          node-version: '10'
+
+      - run: npm install
+
+      - name: Fetch data
+        run: npm test && mkdir -p build && mv _data build/
+        env:
+          UPDATE_URL: ${{ secrets.UPDATE_URL }}
+
+      - name: Get current time
+        uses: gerred/actions/current-time@master
+        id: current-time
+
+      - name: Publish
+        uses: crazy-max/ghaction-github-pages@v2
+        with:
+          target_branch: master
+          keep_history: true
+          allow_empty_commit: false
+          build_dir: build
+          commit_message: "Nightly data update ${{ steps.current-time.outputs.time }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
